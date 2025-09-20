@@ -8,7 +8,7 @@ This repository provides SQL-based analysis of the [Sales Insight Data](https://
 - Explore customers, products, markets, and orders  
 - Build reusable SQL queries for KPIs and dashboards  
 - Validate business rules with “SQL screens” (query + expected output format)  
----
+
 ## Data Model
 
 Dimensions and facts:
